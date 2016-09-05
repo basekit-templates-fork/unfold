@@ -1,63 +1,104 @@
 {
-	"name":"Unfold",
-	"thumbnail":"unfold.png",
-	"screenshot":"unfold.png",
-	"templateType":"standard",
-	"pageTypes":["home"],
-	"tags": {
-	    "en": ["minimal", "clean", "photography", "modern", "dark", "studio", "website", "elegant", "professional", "unique", "media", "sans-serif"],
-	    "es": ["minimalista", "limpio", "fotografico", "moderno", "oscuro", "estudio", "website", "elegante", "profesional", "unico", "comunicacion", "sans-serif"],
-	    "br": ["minimalista", "limpo", "fotografia", "moderno", "escuro", "estúdio", "website", "elegante", "profissional", "único", "mídia", "sans-serif"]
-	},
-	"colorSwatches": {
+    "name": "Unfold",
+    "thumbnail": "unfold.png",
+    "screenshot": "unfold-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
+    "tags": {
+        "en": [
+            "minimal",
+            "clean",
+            "photography",
+            "modern",
+            "dark",
+            "studio",
+            "website",
+            "elegant",
+            "professional",
+            "unique",
+            "media",
+            "sans-serif"
+        ],
+        "es": [
+            "minimalista",
+            "limpio",
+            "fotografico",
+            "moderno",
+            "oscuro",
+            "estudio",
+            "website",
+            "elegante",
+            "profesional",
+            "unico",
+            "comunicacion",
+            "sans-serif"
+        ],
+        "br": [
+            "minimalista",
+            "limpo",
+            "fotografia",
+            "moderno",
+            "escuro",
+            "est\u00fadio",
+            "website",
+            "elegante",
+            "profissional",
+            "\u00fanico",
+            "m\u00eddia",
+            "sans-serif"
+        ]
+    },
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#1557a7",
-            "color3":"#0088ea",
-            "color4":"#373737",
-            "color5":"#7c7c7c",
-            "color6":"#7c7c7c",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#1557a7",
+            "color3": "#0088ea",
+            "color4": "#373737",
+            "color5": "#7c7c7c",
+            "color6": "#7c7c7c",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#cd0032",
-            "color3":"#e06683",
-            "color4":"#7b7b7b",
-            "color5":"#373737",
-            "color6":"#cd0032",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#cd0032",
+            "color3": "#e06683",
+            "color4": "#7b7b7b",
+            "color5": "#373737",
+            "color6": "#cd0032",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#6b00cd",
-            "color3":"#a666e0",
-            "color4":"#7b7b7b",
-            "color5":"#373737",
-            "color6":"#6b00cd",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#6b00cd",
+            "color3": "#a666e0",
+            "color4": "#7b7b7b",
+            "color5": "#373737",
+            "color6": "#6b00cd",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#cdb200",
-            "color3":"#e0d066",
-            "color4":"#7b7b7b",
-            "color5":"#373737",
-            "color6":"#cdb200",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#cdb200",
+            "color3": "#e0d066",
+            "color4": "#7b7b7b",
+            "color5": "#373737",
+            "color6": "#cdb200",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#001bcd",
-            "color3":"#6676e0",
-            "color4":"#7b7b7b",
-            "color5":"#373737",
-            "color6":"#001bcd",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#001bcd",
+            "color3": "#6676e0",
+            "color4": "#7b7b7b",
+            "color5": "#373737",
+            "color6": "#001bcd",
+            "color7": "#ffffff"
         }
     },
     "fontSwatch": {
-       "title": "PT Serif / PT Sans",
+        "title": "PT Serif / PT Sans",
         "font1": {
             "font-family": "\"PT Serif\", Georgia, serif",
             "font-size": "30px",
@@ -108,7 +149,7 @@
             "color-hover": "darken(@color-swatch6, 10%)",
             "background-color": "@color-swatch7",
             "background-color-hover": "@color-swatch7"
-         },
+        },
         "font7": {
             "font-family": "\"PT Sans\", Tahoma, Geneva, sans-serif",
             "font-size": "14px",
